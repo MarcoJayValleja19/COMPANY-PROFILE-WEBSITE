@@ -1,4 +1,4 @@
 # COMPANY-PROFILE-WEBSITE
-FA1-IT1-03 | HCI 1 - P3 | FINAL PROJECT
+MARCO JAY T. VALLEJA | FA1-IT1-03 | HCI 1 - P3 | FINAL PROJECT
 
-This is our COMPANY PROFILE WEBSITE, designed to professionally showcase our company’s brand, values, services, and mission. With a focus on modern design, user-friendly navigation, and updated content, this platform aims to build trust, boost engagement, and strengthen our digital presence for customers, investors, and partners.
+This is our COMPANY PROFILE WEBSITE, a digital platform that presents our brand, values, history, and services to customers, investors, and partners. It aims to build trust through professional design, user-friendly navigation, and relevant, up-to-date content.
